@@ -16,7 +16,7 @@ DevOps Engineer L2 at **SegueIT**, based in Noida, India. I turn a `git push` in
 - **Pharmacy e-commerce on AWS:** GitHub Actions → ECR → EC2, SHA-tagged images, IAM instance role, blue/green releases behind NGINX
 - **Visitor & staff management system:** locked deploys on a self-hosted runner, monitoring stack on a separate server
 - **Segue Monitor:** white-labelled Uptime Kuma on Azure, alerts to Zoho Cliq
-- **10+ apps in production** across EC2, Lightsail, Amplify, Azure and cPanel hosting
+- **10+ apps in production** across AWS, Azure and cPanel hosting
 
 **Public repos here**
 
