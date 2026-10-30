@@ -40,7 +40,18 @@
 | **Pharmacy e-commerce** | Commit → ECR → EC2 release pipeline with SHA-tagged images, IAM instance role and blue/green releases behind NGINX | GitHub Actions · Docker · ECR · EC2 · RDS · S3 · CloudFront |
 | **Visitor & staff management** | Locked deploys on a self-hosted runner, WebSocket-ready NGINX, monitoring stack on its own server | GitHub Actions · Docker · NGINX · Prometheus · Grafana · Loki |
 | **Segue Monitor** | White-labelled Uptime Kuma: HTTP and keyword checks with alerts to Zoho Cliq | Azure · ACR · Docker · GitHub Actions |
-| **10+ more apps** | Deployments across EC2, Lightsail, Amplify, Azure and cPanel hosting | AWS · Azure · Linux · cPanel |
+| **Transcriber** | Containerised the app and shipped it to Azure through a GitHub Actions pipeline | Azure · ACR · Docker · GitHub Actions |
+| **Qlik-to-Fabric** | Deployed the app on Azure with images in Azure Container Registry | Azure · ACR · Docker · GitHub Actions |
+| **Project Management System** | Deployed the company's project management app on Azure via GitHub Actions | Azure · ACR · Docker · GitHub Actions |
+| **Makhana e-commerce** | Full-stack Next.js + NestJS app on Ubuntu EC2 behind NGINX with TLS and PM2; fixed DNS and a monorepo build issue | EC2 · NGINX · PM2 · Linux · DNS |
+| **SegueIT company website** | Containerised the site and deployed it on Lightsail; every push ships through GitHub Actions | Lightsail · Docker · GitHub Actions |
+| **Home loan advisory website** | Deployed on AWS Amplify with branch-based CI/CD builds and a custom domain | AWS Amplify · CI/CD · DNS |
+| **Education client hosting** | Moodle LMS on a dedicated server and the client website on shared hosting, managed through cPanel | cPanel · Moodle · Linux |
+| **AWS security & backup** | RDS backups (7-day retention), EC2 snapshots, AWS Backup plan (daily, 14-day retention), cron jobs and an IAM policy review | AWS Backup · RDS · IAM · Cron |
+| **Identity & access POCs** | Authentik with Docker Compose and PostgreSQL to evaluate SSO (OIDC/SAML); Zoho Directory for central user management | Authentik · SSO · OIDC · SAML |
+| **GitLab CI/CD POC** | Self-hosted GitLab CE and Runner on EC2 with a build → test → deploy pipeline | GitLab CI · Docker · NGINX · EC2 |
+
+<p>👉 <b><a href="https://www.linkedin.com/in/ayush088/details/projects/">See all 13 projects with full details on LinkedIn</a></b></p>
 
 ### 📂 Public repos
 
